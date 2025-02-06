@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+sou+Francine+Maciel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Francine)](https://git.io/typing-svg)
 
 🎓 - Estudando Análise e Desenvolvimento de Sistemas na Fiap e formada em Design Gráfico. <br>
 🌱 - Aprendendo mais sobre Desenvolvimento Full-Stack.
