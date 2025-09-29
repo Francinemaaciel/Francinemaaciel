@@ -41,13 +41,3 @@ Aqui você vai encontrar um pouco da minha jornada no mundo do back-end e projet
 <h4 align="left">● ⚙️ Dev Back-end em construção (Golang)<br>● 🗄️ Experiência com PostgreSQL e Docker<br>● 🌐 Criando APIs REST com Fiber<br>● 📚 Estudante de Análise e Desenvolvimento de Sistemas na FIAP<br>● ☕ Café continua sendo meu combustível favorito</h4>
 
 ###
-
-<br clear="both">
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Francinemaaciel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true&order=1&custom_title=Estat%C3%ADsticas" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Francinemaaciel&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2&custom_title=Linguagens" height="160" alt="languages graph"  />
-</div>
-
-###
