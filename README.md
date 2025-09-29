@@ -33,7 +33,7 @@
 ###
 
 <p align="left">Sou a Francine Maciel, apaixonada por unir criatividade e tecnologia. Tenho formação em Design Gráfico, estudo Análise e Desenvolvimento de Sistemas e atualmente foco em Back-end com Golang.  
-Exploro a criação de **APIs escaláveis**, integração com **PostgreSQL**, uso de **Docker** e boas práticas em **arquitetura de software**.  
+Exploro a criação de APIs escaláveis, integração com PostgreSQL, uso de Docker e boas práticas em arquitetura de software.  
 Aqui você vai encontrar um pouco da minha jornada no mundo do back-end e projetos que buscam resolver problemas reais. 🚀</p>
 
 ###
